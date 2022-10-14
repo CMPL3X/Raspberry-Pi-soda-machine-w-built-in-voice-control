@@ -1,6 +1,6 @@
 # Raspberry-Pi-soda-machine-w-built-in-voice-control
 
-This is a project i made for school. It is a raspberry pi powered soda machine that recognises your voice and understands what you whant to drink using the google assistant sdk. The video is for school (Its in latvian) as an example for the code.
+This is a project i made for 8th class. It is a raspberry pi powered soda machine that recognises your voice and understands what you whant to drink using the google assistant sdk.
 
 Before using this code you have to install :
 pip install python-vlc
